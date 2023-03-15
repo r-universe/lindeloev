@@ -1,5 +1,9 @@
 [
   {
+    "package": "job",
+    "oncran": true
+  },
+  {
     "package": "mcp",
     "oncran": true
   }
